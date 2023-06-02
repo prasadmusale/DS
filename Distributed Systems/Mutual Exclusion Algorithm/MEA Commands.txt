@@ -1,0 +1,2 @@
+compile - javac -cp .;%MPJ_HOME%/lib/mpj.jar HelloWorld.java
+Execute -  mpjrun.bat -np 2 HelloWorld
